@@ -1,0 +1,28 @@
+
+div.ss-form div,h1,h2,p,ol,ul,li,form {margin:0;padding:0;border:0;}
+div.ss-form a{color:#00c}
+div.ss-form a:active{color:#f00}
+div.ss-form a:visited{color:#551a8b}
+div.ss-form ul{padding:0 0 1em 1em}
+div.ss-form ol{padding:0 0 1em 1.3em}
+div.ss-form li{line-height:1.5em;padding:0 0 .5em 0}
+div.ss-form p{padding:0 0 1em 0}
+div.ss-form h1,h2{padding:0 0 1em 0}
+div.ss-form h1,h2{font-size:1.3em}
+div.ss-form input{font-family:inherit;font-size:inherit}
+div.ss-form .ss-choice-item{margin:0;line-height:1.3em;padding-bottom:.5em}
+div.ss-form .ss-form-entry input{vertical-align:middle;margin-top:0}
+div.ss-form .g{color:#666}
+div.ss-form .i{display:inline}
+div.ss-form .ss-form-desc{font:inherit;width:99%;margin:0}
+div.ss-form .ss-q-title{display:block;font-weight:bold}
+div.ss-form .ss-q-help{display:block;color:#666;margin:.1em 0 .25em 0}
+div.ss-form .ss-form-entry{margin-bottom:1.5em;zoom:1;}
+div.ss-form .ss-choices{list-style:none;margin:.5em 0 0 0;padding:0}
+div.ss-form .ss-powered-by{display:block;clear:left;color:#666;margin:1em 0.2em 0.2em}
+div.ss-form .ss-powered-by a:link,.ss-powered-by a:visited{color:#666}
+div.ss-form .ss-terms{display:block;clear:left;margin:1em 0.2em 0.2em}
+div.ss-form .ss-required-asterisk{color:#c43b1d}
+div.ss-form .ss-no-ignore-whitespace{white-space:pre-wrap;white-space:-moz-pre-wrap;word-wrap:break-word}
+div.ss-form .ss-grid .errorbox-component .errorbox-good,.ss-grid .errorbox-component .errorbox-bad{display:none}
+div.ss-form .errorbox-bad{border:2px solid #c43b1d;background-color:#ffe6cc;padding:2px}
