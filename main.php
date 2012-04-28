@@ -1,13 +1,10 @@
 <?php
 /**
- * Doogies Dokuwiki Template
+ * Agile Grenoble Dokuwiki Template
  *
  * You should leave the doctype at the very top - It should
  * always be the very first line of a document.
  *
- * @link   http://wiki.splitbrain.org/wiki:tpl:templates
- * @author Andreas Gohr <andi@splitbrain.org>
- * @author Robert Rackl
  */
 
 // must be run from within DokuWiki
@@ -128,8 +125,6 @@ function display_admin_options()
     echo "</div>";
 
     echo "<div class='bar-admin-right' id='bar-admin__topright'>";
-    tpl_button('subscribe');
-    tpl_button('subscribens');
     tpl_button('admin');
     tpl_button('profile');
     tpl_button('login');
